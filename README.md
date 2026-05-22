@@ -9,8 +9,8 @@
 
 > [debian-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://samwhelp.github.io/debian-iso-builder-include-pacstall-gnome-shell-layout-maccity)
 
-| Link | GitHub |
-| ---- | ------ |
+| Project |
+| ------- |
 | [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 | `+` |
 | [debian-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/debian-iso-builder-import-pacstall-gnome-shell-layout-maccity) |
